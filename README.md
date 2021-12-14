@@ -1,1 +1,1 @@
-To do list feita em ReactJS, Typescript e Sass.
+"To do" list made with ReactJS, Typescript and Sass.
